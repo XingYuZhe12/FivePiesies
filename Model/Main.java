@@ -18,7 +18,7 @@ public class Main extends Application {
 		pane.setCenter(view);
 		pane.setRight(control);
 		arg0.setScene(scene);
-		arg0.setTitle("Îå×ÓÆå");
+		arg0.setTitle("äº”å­æ£‹");
 		arg0.show();
 	}
 	public static void main(String[] args) {
